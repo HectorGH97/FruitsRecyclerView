@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FruitsAppMVPCAT23</string>
+    <string name="title_home">All Fruits</string>
+    <string name="title_dashboard">Search a fruit</string>
+    <string name="title_notifications">Create your fruit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
